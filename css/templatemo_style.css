@@ -162,6 +162,12 @@ img {
 }
 .logo {
 	padding: 0;
+    float: left;
+    height: 66px;
+}
+.logo img{
+  height: 60px !important;
+  width: 180px !important;
 }
 .mainMenu {
 
